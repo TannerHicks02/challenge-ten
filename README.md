@@ -5,4 +5,5 @@ A Node.js command-line application to generate a simple SVG logo.
 ## Setup
 
 ```bash
-npm install
+npm install inquirer
+node index.js
